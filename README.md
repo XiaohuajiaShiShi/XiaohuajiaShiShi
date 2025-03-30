@@ -1,6 +1,5 @@
 ## Hi there 👋
 <!-- Failed to upload "2025-03-27 133241.gif" -->
-<!--
 **XiaohuajiaShiShi/XiaohuajiaShiShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
